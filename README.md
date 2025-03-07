@@ -7,4 +7,6 @@ In this project, I attempted to take 2216 EEG examinations with 667 entries each
 * The Training of 3 different types of predictive models
 * Evaluation of the models' performances and how they could be improved upon while improving results and making predictions more efficient.
 
+All the explanations are detailed in the python notebook.
+
 ENJOY!
